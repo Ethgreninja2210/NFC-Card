@@ -1,7 +1,7 @@
 ﻿Item,Price,Quantity,Shipping,Supplier,Total
 PCB, £3.65 ,5, £1.09 ,JLCPCB, £4.74
-Capacitor 220nF, 0.008 ,1, Shared ,JCLPCB Assembly service, 
-Red LED, 0.012 ,1, Shared ,JCLPCB Assembly service, 
-47 Ohm Resistor, 0.001 ,1, Shared ,JCLPCB Assembly service, 
-NFC Chip, 0.792 ,1, Shared ,JCLPCB Assembly service, 
-,,,,,£4.74
+Capacitor 220nF, 0.008 ,1, Shared ,LCSC, 
+Red LED, 0.012 ,1, Shared ,LCSC, 
+47 Ohm Resistor, 0.001 ,1, Shared ,LCSC, 
+NFC Chip, 0.792 ,1, Shared ,LCSC, 
+,,,,JLCPCB Assembly Service,£4.74
